@@ -1,5 +1,5 @@
 # Santa2021
-超置換(superpermutation)  
+最小超置換(superpermutation)  
 
 {🎅}, 🎅  
 
